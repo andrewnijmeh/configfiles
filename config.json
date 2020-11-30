@@ -1,0 +1,2 @@
+// this is a config file for docker i r un docker on windows with WSL features so this config file may vary depending on your OS.
+{"auths":{"https://index.docker.io/v1/":{}},"credsStore":"desktop","experimental":"enabled","stackOrchestrator":"swarm"}
