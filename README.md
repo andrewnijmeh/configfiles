@@ -1,3 +1,14 @@
 # My config files
 
-These are all my config files that i use for hyper, vim zsh and more!
+- OS: Linux/Windows
+- Terminal: Hyoer
+- WM: Rectangle
+- Main Editors:
+  - Nano
+  - Visual Studio Code
+  - Vim
+- Shell: zsh/bash
+
+## 👥 Contributors
+
+- **[@andrewnijmeh](https://github.com/andrewnijmeh**
