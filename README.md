@@ -1,8 +1,7 @@
 # My config files
 
 - OS: Linux/Windows
-- Terminal: Hyoer
-- WM: Rectangle
+- Terminal: Hyper
 - Main Editors:
   - Nano
   - Visual Studio Code
