@@ -8,6 +8,6 @@
   - Vim
 - Shell: zsh/bash
 
-## 👥 Contributors
+## People who contribute 
 
 - **[@andrewnijmeh](https://github.com/andrewnijmeh**
