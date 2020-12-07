@@ -10,4 +10,4 @@
 
 ## People who contribute 
 
-- **[@andrewnijmeh](https://github.com/andrewnijmeh**
+- **[@andrewnijmeh](https://github.com/andrewnijmeh**)
