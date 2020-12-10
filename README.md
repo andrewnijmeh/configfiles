@@ -1,3 +1,4 @@
+<!-- DO NOT REMOVE - contributor_list:data:start:["andrewnijmeh"]:end -->
 # My config files
 
 - OS: Linux/Windows
@@ -11,3 +12,13 @@
 ## People who contribute 
 
 - **[@andrewnijmeh](https://github.com/andrewnijmeh**)
+
+<!-- prettier-ignore-start -->
+<!-- DO NOT REMOVE - contributor_list:start -->
+## 👥 Contributors
+
+
+- **[@andrewnijmeh](https://github.com/andrewnijmeh)**
+
+<!-- DO NOT REMOVE - contributor_list:end -->
+<!-- prettier-ignore-end -->
